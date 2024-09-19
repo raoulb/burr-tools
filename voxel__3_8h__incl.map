@@ -1,0 +1,30 @@
+<map id="src/lib/voxel_3.h" name="src/lib/voxel_3.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,379,31"/>
+<area shape="rect" id="Node000002" href="$voxel__0_8h.html" title="Contains the declaration of voxel_0_c." alt="" coords="273,79,357,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,31,318,65,313,65,313,31"/>
+<area shape="rect" id="Node000003" href="$voxel_8h.html" title="Contains the voxel base class and the class that gets thrown on load errors." alt="" coords="281,152,350,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,104,318,138,313,138,313,104"/>
+<area shape="rect" id="Node000004" href="$bt__assert_8h.html" title=" " alt="" coords="80,299,175,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,172,250,178,216,189,183,205,155,227,138,255,131,286,126,285,133,253,151,224,180,200,215,184,249,173,280,167"/>
+<area shape="rect" id="Node000008" href="$symmetries_8h.html" title=" " alt="" coords="294,299,406,324"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="321,177,347,285,341,286,316,178"/>
+<area shape="rect" id="Node000010" href="$gridtype_8h.html" title=" " alt="" coords="165,225,253,251"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="300,180,239,220,236,215,297,175"/>
+<area shape="rect" id="Node000011" href="$types_8h.html" title=" " alt="" coords="199,299,269,324"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="311,179,250,288,245,285,306,176"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="378,225,445,251"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="332,175,386,215,383,219,329,180"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="469,225,527,251"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="346,175,456,218,454,223,344,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,372,68,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,326,64,365,61,361,111,322"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="92,372,163,397"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="130,324,130,358,125,358,125,324"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="187,372,273,397"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="145,322,203,362,200,366,142,326"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="303,372,389,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="352,324,350,359,345,358,347,324"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="197,253,153,292,149,288,194,249"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="215,250,228,285,223,287,210,252"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="253,322,317,362,314,367,251,326"/>
+</map>

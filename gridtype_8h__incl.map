@@ -1,0 +1,15 @@
+<map id="src/lib/gridtype.h" name="src/lib/gridtype.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,5,207,31"/>
+<area shape="rect" id="Node000002" href="$types_8h.html" title=" " alt="" coords="33,79,104,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,33,92,71,89,67,128,29"/>
+<area shape="rect" id="Node000004" href="$bt__assert_8h.html" title=" " alt="" coords="169,79,264,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,29,196,67,193,71,152,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,92,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,105,58,140,53,138,63,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="116,152,179,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,106,170,144,166,140,203,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="203,152,273,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="223,104,233,138,228,140,218,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="297,152,384,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="238,102,310,143,307,147,235,106"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="src/tools/xml.cpp" name="src/tools/xml.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,5,371,31"/>
+<area shape="rect" id="Node000002" href="$xml_8h.html" title="This file contains the XML load and save stuff." alt="" coords="186,79,245,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,33,242,72,239,68,289,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="269,79,340,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="307,31,307,65,302,65,302,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="365,79,439,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="322,29,376,68,373,72,319,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,68,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,107,79,149,77,144,186,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,152,151,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,106,150,146,146,141,199,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="175,152,255,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="218,104,218,138,213,138,213,104"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="279,152,330,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="231,102,281,141,278,145,228,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="355,152,441,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="246,102,356,144,354,149,244,107"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="src/tools/xml.h" name="src/tools/xml.h">
+<area shape="rect" id="Node000001" title="This file contains the XML load and save stuff." alt="" coords="975,5,1094,31"/>
+<area shape="rect" id="Node000002" href="$assembler_8cpp.html" title=" " alt="" coords="5,79,165,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="962,26,623,46,178,81,166,83,165,77,177,76,622,41,961,20"/>
+<area shape="rect" id="Node000003" href="$assembler__0_8cpp.html" title=" " alt="" coords="190,79,365,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="962,28,376,81,365,82,365,77,376,76,961,23"/>
+<area shape="rect" id="Node000004" href="$assembler__1_8cpp.html" title=" " alt="" coords="389,79,563,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="962,31,564,82,563,76,961,26"/>
+<area shape="rect" id="Node000005" href="$assembly_8cpp.html" title=" " alt="" coords="587,79,741,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="962,36,725,81,724,76,961,31"/>
+<area shape="rect" id="Node000006" href="$disassembly_8cpp.html" title=" " alt="" coords="765,79,937,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="993,38,882,81,880,76,991,33"/>
+<area shape="rect" id="Node000007" href="$gridtype_8cpp.html" title=" " alt="" coords="961,79,1108,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1037,44,1037,79,1032,79,1032,44"/>
+<area shape="rect" id="Node000008" href="$problem_8cpp.html" title=" " alt="" coords="1132,79,1279,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1076,33,1178,76,1176,81,1074,38"/>
+<area shape="rect" id="Node000009" href="$puzzle_8cpp.html" title=" " alt="" coords="1303,79,1438,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1103,31,1317,76,1316,81,1101,36"/>
+<area shape="rect" id="Node000010" href="$solution_8cpp.html" title=" " alt="" coords="1463,79,1607,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1108,27,1463,77,1462,82,1108,32"/>
+<area shape="rect" id="Node000011" href="$voxel_8cpp.html" title="Contains the implementation for the voxel base class." alt="" coords="1631,79,1758,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1108,23,1336,45,1619,76,1632,78,1631,83,1618,81,1336,50,1107,28"/>
+<area shape="rect" id="Node000012" href="$xml_8cpp.html" title=" " alt="" coords="1783,79,1916,104"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1108,21,1398,41,1771,76,1783,77,1782,83,1770,81,1398,47,1108,26"/>
+</map>

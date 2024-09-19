@@ -1,0 +1,37 @@
+<map id="src/lib/stl_2.cpp" name="src/lib/stl_2.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,306,31"/>
+<area shape="rect" id="Node000002" href="$stl__2_8h.html" title=" " alt="" coords="163,79,228,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,33,213,69,209,66,234,29"/>
+<area shape="rect" id="Node000008" href="$voxel__2_8h.html" title=" " alt="" coords="252,79,336,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="255,29,280,66,276,69,251,33"/>
+<area shape="rect" id="Node000003" href="$stl_8h.html" title=" " alt="" coords="69,152,119,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,106,123,146,120,142,178,102"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title=" " alt="" coords="451,299,521,324"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,100,276,117,332,143,389,178,440,224,462,255,478,285,474,288,458,257,436,227,386,183,329,148,274,122,227,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,372,68,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,179,66,200,51,226,42,261,37,297,37,358,32,358,32,296,36,260,46,224,62,197,80,176"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="61,225,127,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="97,178,97,212,91,212,91,178"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="364,372,451,397"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="475,326,432,365,428,361,472,322"/>
+<area shape="rect" id="Node000009" href="$voxel_8h.html" title="Contains the voxel base class and the class that gets thrown on load errors." alt="" coords="259,152,329,177"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="297,104,297,138,291,138,291,104"/>
+<area shape="poly" id="edge19_Node000009_Node000005" title=" " alt="" coords="263,180,141,223,139,218,261,175"/>
+<area shape="poly" id="edge18_Node000009_Node000006" title=" " alt="" coords="322,175,364,195,408,223,442,255,470,286,466,289,439,258,404,227,361,200,320,180"/>
+<area shape="rect" id="Node000010" href="$bt__assert_8h.html" title=" " alt="" coords="117,299,212,324"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="262,180,225,199,207,212,192,227,177,256,170,285,165,284,172,254,188,224,204,208,222,194,259,175"/>
+<area shape="rect" id="Node000013" href="$symmetries_8h.html" title=" " alt="" coords="315,299,427,324"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="327,175,360,194,375,208,387,224,392,240,393,256,385,286,380,285,387,256,387,241,382,227,371,211,357,198,324,180"/>
+<area shape="rect" id="Node000014" href="$gridtype_8h.html" title=" " alt="" coords="202,225,290,251"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="288,179,264,216,259,213,284,176"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="314,225,373,251"/>
+<area shape="poly" id="edge20_Node000009_Node000015" title=" " alt="" coords="304,176,330,213,325,216,300,179"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="145,326,71,367,69,363,143,322"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="117,372,188,397"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="165,325,160,359,154,358,160,324"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="212,372,299,397"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="181,322,231,361,228,365,178,326"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="380,323,398,358,393,361,375,326"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="285,248,438,293,437,298,284,253"/>
+<area shape="poly" id="edge17_Node000014_Node000010" title=" " alt="" coords="235,253,190,292,186,288,231,249"/>
+</map>

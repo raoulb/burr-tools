@@ -1,0 +1,16 @@
+<map id="src/lib/movementanalysator.h" name="src/lib/movementanalysator.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,5,317,31"/>
+<area shape="rect" id="Node000002" href="$disassembler__a_8cpp.html" title=" " alt="" coords="5,152,157,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,39,134,56,109,80,99,98,92,117,85,152,80,151,86,115,94,95,105,77,131,52,162,34"/>
+<area shape="rect" id="Node000003" href="$disassembler__a_8h.html" title=" " alt="" coords="119,79,297,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,44,211,79,205,79,205,44"/>
+<area shape="rect" id="Node000007" href="$movementanalysator_8cpp.html" title=" " alt="" coords="321,79,553,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="259,32,401,76,399,81,257,37"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="179,114,113,154,110,150,176,109"/>
+<area shape="rect" id="Node000004" href="$disassembler__0_8h.html" title=" " alt="" coords="181,159,360,185"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,113,263,157,259,161,224,116"/>
+<area shape="rect" id="Node000005" href="$disassembler__0_8cpp.html" title=" " alt="" coords="101,240,253,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,196,200,242,196,238,246,192"/>
+<area shape="rect" id="Node000006" href="$solvethread_8cpp.html" title=" " alt="" coords="278,247,447,273"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="295,192,352,245,348,249,291,196"/>
+</map>

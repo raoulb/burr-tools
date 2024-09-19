@@ -1,0 +1,5 @@
+<map id="fixedPositions_c" name="fixedPositions_c">
+<area shape="rect" id="Node000001" title="a piece position class with fixed positions" alt="" coords="7,79,135,104"/>
+<area shape="rect" id="Node000002" href="$classpiecePositions__c.html" title="this is an abstract class used to define piece positions" alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,79,68,79,68,44"/>
+</map>

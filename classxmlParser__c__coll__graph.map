@@ -1,0 +1,21 @@
+<map id="xmlParser_c" name="xmlParser_c">
+<area shape="rect" id="Node000001" title="A simple, pull based XML parser." alt="" coords="961,185,1064,210"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="409,163,495,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,155,546,139,579,137,612,139,777,134,849,139,938,160,989,182,987,187,936,165,848,144,777,139,612,144,579,142,547,144,493,161"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="648,156,811,196"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="509,173,647,173,647,179,509,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="636,221,823,246"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="509,185,547,193,666,218,665,223,546,199,508,191"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="177,156,316,196"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,173,408,173,408,179,330,179"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="824,179,938,187,961,189,961,194,937,192,824,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="829,244,883,244,937,236,967,224,993,208,996,213,969,229,938,241,883,250,829,250"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="679,270,779,295"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="793,286,864,284,901,277,936,266,956,254,974,239,1001,208,1005,212,978,242,959,258,938,270,902,283,865,289,794,292"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="381,263,523,303"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="536,280,679,280,679,285,536,285"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="161,270,332,295"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="346,280,381,280,381,285,346,285"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,270,112,295"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="126,280,161,280,161,285,126,285"/>
+</map>

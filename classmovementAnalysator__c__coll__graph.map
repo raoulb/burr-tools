@@ -1,0 +1,30 @@
+<map id="movementAnalysator_c" name="movementAnalysator_c">
+<area shape="rect" id="Node000001" title="this class is can do analysis of movements within a puzzle." alt="" coords="425,424,602,449"/>
+<area shape="rect" id="Node000002" href="$classmovementCache__c.html" title="Calculates and stores the information required for movement analysis." alt="" coords="269,329,416,354"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,361,415,398,472,421,470,426,412,402,363,366"/>
+<area shape="rect" id="Node000003" href="$structmovementCache__c_1_1moEntry.html" title="values are saved within a hash table, this is the entry for the table for the movement data" alt="" coords="5,202,216,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,233,245,295,314,326,312,331,243,300,138,237"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="231,207,243,214,234,222,217,225,216,220,232,217,237,215,228,211"/>
+<area shape="rect" id="Node000004" href="$classvoxel__c.html" title="This class handles one voxel space." alt="" coords="363,202,434,227"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="390,241,350,330,345,327,386,239"/>
+<area shape="rect" id="Node000005" href="$classgridType__c.html" title="This class encapsulates all information required to handle the different grid types." alt="" coords="276,110,367,135"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="326,149,344,328,339,329,321,150"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="343,144,391,200,387,204,339,148"/>
+<area shape="rect" id="Node000006" href="$classsymmetries__c.html" title="this class contains all kinds of functions to handle symmetry groups" alt="" coords="255,13,369,38"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="317,51,323,109,318,110,312,52"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="410,110,497,135"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="430,146,417,163,408,183,403,203,398,201,403,181,412,160,426,143"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="393,5,532,45"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="462,59,457,110,452,110,457,59"/>
+<area shape="rect" id="Node000009" href="$classcountingNodeHash.html" title="Hashtable like nodeHash with the additional feature of scanning through all elements." alt="" coords="513,329,658,354"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="570,367,524,426,520,422,566,363"/>
+<area shape="rect" id="Node000010" href="$structcountingNodeHash_1_1hashNode.html" title="hash node data structure" alt="" coords="512,202,731,227"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="617,241,591,329,586,328,612,240"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="746,207,757,215,749,222,732,225,731,219,747,217,752,215,744,212"/>
+<area shape="rect" id="Node000011" href="$classdisassemblerNode__c.html" title="The node structure used by the disassembler." alt="" coords="532,110,689,135"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="569,144,532,167,515,183,502,201,491,231,485,263,484,295,487,327,499,384,511,423,506,424,493,385,482,328,479,295,480,262,486,229,498,199,511,179,528,163,566,139"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="616,149,623,202,617,202,611,150"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="704,114,716,122,708,130,690,133,689,128,706,125,711,123,701,119"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="683,321,848,361"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="702,369,545,426,543,421,700,364"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="separation_c" name="separation_c">
+<area shape="rect" id="Node000001" title="A list of states that lead to a separation of the puzzle into 2 parts." alt="" coords="177,198,283,223"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="298,202,309,210,301,219,283,222,282,216,299,214,304,211,295,206"/>
+<area shape="rect" id="Node000002" href="$classdisassembly__c.html" title="the disassembly is a common base class for the separation and separationInfo classes." alt="" coords="5,101,124,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,131,211,196,209,200,96,135"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,93,313,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,147,233,198,227,198,227,147"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="337,101,515,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="391,135,255,200,253,195,389,130"/>
+<area shape="rect" id="Node000005" href="$classstate__c.html" title="defines one step in the separation process." alt="" coords="391,5,461,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="429,44,429,101,423,101,423,44"/>
+</map>

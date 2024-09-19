@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classdisassembly__c.html" title="the disassembly is a common base class for the separation and separationInfo classes." alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000001" href="$classseparationInfo__c.html" title="this class is used to store the complexity of a disassembly." alt="" coords="172,5,303,31"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="137,30,171,25,172,30,138,35"/>
+<area shape="rect" id="Node000002" href="$classseparation__c.html" title="A list of states that lead to a separation of the puzzle into 2 parts." alt="" coords="185,55,290,80"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="138,51,185,57,184,63,137,56"/>
+</map>

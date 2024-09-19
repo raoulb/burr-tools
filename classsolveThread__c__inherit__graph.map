@@ -1,0 +1,7 @@
+<map id="solveThread_c" name="solveThread_c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,79,179,104"/>
+<area shape="rect" id="Node000002" href="$classassembler__cb.html" title="The callback class used to return found assemblies to the caller." alt="" coords="5,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,40,114,77,110,80,78,43"/>
+<area shape="rect" id="Node000003" href="$classthread__c.html" title=" " alt="" coords="142,5,221,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,43,133,80,129,77,161,40"/>
+</map>

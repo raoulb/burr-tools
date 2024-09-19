@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,70,112,95"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,70,331,95"/>
+<area shape="poly" id="edge16_Node000000_Node000001" title=" " alt="" coords="126,80,160,80,160,85,126,85"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="381,5,522,45"/>
+<area shape="poly" id="edge17_Node000001_Node000002" title=" " alt="" coords="304,64,380,42,381,47,306,69"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="379,120,524,160"/>
+<area shape="poly" id="edge20_Node000001_Node000008" title=" " alt="" coords="306,97,380,117,378,123,304,102"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="417,70,486,95"/>
+<area shape="poly" id="edge23_Node000001_Node000009" title=" " alt="" coords="345,80,416,80,416,85,345,85"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="579,17,679,42"/>
+<area shape="poly" id="edge18_Node000002_Node000003" title=" " alt="" coords="536,25,579,26,579,31,536,30"/>
+<area shape="rect" id="Node000004" href="$classigzstream.html" title=" " alt="" coords="737,38,823,63"/>
+<area shape="poly" id="edge19_Node000003_Node000004" title=" " alt="" coords="693,36,737,42,736,47,692,41"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="577,123,681,149"/>
+<area shape="poly" id="edge21_Node000008_Node000007" title=" " alt="" coords="538,135,577,134,577,140,538,141"/>
+<area shape="rect" id="Node000006" href="$classogzstream.html" title=" " alt="" coords="735,99,825,125"/>
+<area shape="poly" id="edge22_Node000007_Node000006" title=" " alt="" coords="694,123,734,117,735,122,695,128"/>
+<area shape="rect" id="Node000005" href="$classgzstreambase.html" title=" " alt="" coords="572,70,687,95"/>
+<area shape="poly" id="edge24_Node000009_Node000005" title=" " alt="" coords="500,80,572,80,572,85,500,85"/>
+<area shape="poly" id="edge25_Node000005_Node000004" title=" " alt="" coords="700,65,736,57,737,62,701,70"/>
+<area shape="poly" id="edge26_Node000005_Node000006" title=" " alt="" coords="701,94,735,101,734,106,700,99"/>
+</map>

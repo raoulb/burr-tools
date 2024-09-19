@@ -1,0 +1,13 @@
+<map id="gzstreambase" name="gzstreambase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,243,225,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,155,148,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,190,163,241,158,244,126,193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,80,176,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,118,112,154,107,155,96,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="37,5,144,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="93,45,93,80,88,80,88,45"/>
+<area shape="rect" id="Node000005" href="$classgzstreambuf.html" title=" " alt="" coords="200,155,304,180"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,192,182,244,178,240,229,188"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="200,80,317,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,119,256,155,250,154,254,119"/>
+</map>

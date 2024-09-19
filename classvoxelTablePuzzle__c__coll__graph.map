@@ -1,0 +1,70 @@
+<map id="voxelTablePuzzle_c" name="voxelTablePuzzle_c">
+<area shape="rect" id="Node000001" title="a convenient class that already provides findSpace for a shape list in puzzle_c" alt="" coords="1505,104,1652,129"/>
+<area shape="rect" id="Node000002" href="$classvoxelTable__c.html" title="This class is a table containing references to voxelspaces." alt="" coords="1208,61,1313,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1327,80,1505,104,1504,109,1326,85"/>
+<area shape="rect" id="Node000003" href="$structvoxelTable__c_1_1hashNode.html" title="the hash table entry" alt="" coords="879,44,1057,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1071,60,1208,68,1208,74,1071,65"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="939,29,948,21,968,17,985,20,995,26,998,36,993,45,988,43,993,35,991,29,983,25,968,23,950,26,943,33"/>
+<area shape="rect" id="Node000004" href="$classpuzzle__c.html" title="This class defines the puzzle." alt="" coords="1221,209,1300,235"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1312,202,1538,127,1540,132,1314,208"/>
+<area shape="rect" id="Node000012" href="$classproblem__c.html" title="This class defines a problem,." alt="" coords="1533,348,1624,373"/>
+<area shape="poly" id="edge14_Node000012_Node000004" title=" " alt="" coords="1314,236,1371,254,1428,266,1452,272,1483,285,1530,315,1566,346,1562,350,1527,320,1480,290,1451,278,1427,272,1370,259,1312,241"/>
+<area shape="rect" id="Node000005" href="$classgridType__c.html" title="This class encapsulates all information required to handle the different grid types." alt="" coords="314,333,405,359"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="419,351,537,363,697,369,786,368,877,361,968,349,1057,330,1112,310,1164,283,1241,233,1244,237,1167,288,1114,315,1058,335,969,354,878,367,786,373,697,375,537,368,418,357"/>
+<area shape="rect" id="Node000008" href="$classvoxel__c.html" title="This class handles one voxel space." alt="" coords="641,227,712,252"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="410,326,640,248,642,253,412,331"/>
+<area shape="rect" id="Node000006" href="$classsymmetries__c.html" title="this class contains all kinds of functions to handle symmetry groups" alt="" coords="17,361,132,387"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="145,364,313,348,314,353,146,370"/>
+<area shape="rect" id="Node000019" href="$classassembly__c.html" title="this class contains the assembly for a puzzle." alt="" coords="627,417,726,443"/>
+<area shape="poly" id="edge24_Node000019_Node000006" title=" " alt="" coords="146,378,567,417,627,423,627,428,566,422,145,383"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="897,145,1039,185"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="1053,178,1222,212,1221,217,1052,184"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="725,225,897,180,898,185,726,230"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="316,227,403,252"/>
+<area shape="poly" id="edge38_Node000004_Node000009" title=" " alt="" coords="405,219,519,182,596,161,681,142,773,128,868,119,964,119,1058,130,1112,145,1163,165,1240,207,1238,212,1160,170,1110,150,1057,135,963,124,868,124,773,133,682,148,597,166,521,187,407,224"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="417,237,641,237,641,242,417,242"/>
+<area shape="poly" id="edge36_Node000012_Node000009" title=" " alt="" coords="417,243,591,262,969,296,1347,326,1414,331,1482,338,1534,348,1533,353,1481,343,1414,336,1346,331,968,301,590,267,416,248"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,219,144,259"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="158,237,316,237,316,242,158,242"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1765,271,1925,311"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="1752,280,1481,245,1300,228,1300,222,1482,239,1752,275"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1636,343,1767,309,1768,314,1638,348"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1175,528,1347,553"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1343,522,1412,500,1447,485,1480,466,1508,444,1533,418,1567,372,1571,375,1537,422,1512,448,1483,471,1450,490,1414,505,1344,527"/>
+<area shape="rect" id="Node000014" href="$classpart__c.html" title="internal class of problem storing the information attached to a piece in a problem" alt="" coords="937,593,999,619"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1013,594,1202,551,1204,556,1014,599"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="591,645,763,671"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="762,640,936,609,937,614,762,645"/>
+<area shape="rect" id="Node000016" href="$classgroup__c.html" title="internal class of problem storing the grouping information of a shape" alt="" coords="323,669,396,695"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="410,681,484,681,566,677,620,668,621,673,567,682,484,687,410,687"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1181,341,1340,381"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="1354,358,1533,358,1533,363,1354,363"/>
+<area shape="rect" id="Node000018" href="$classsolution__c.html" title="This class stores the information for one solution for a problem." alt="" coords="924,460,1012,485"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="1014,452,1206,378,1208,383,1016,457"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="740,437,924,464,923,469,739,442"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="257,447,461,472"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="475,446,627,432,627,437,475,451"/>
+<area shape="rect" id="Node000021" href="$classplacement__c.html" title="this class contains the information for the placement of one piece within the assembly." alt="" coords="22,447,127,472"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="141,457,257,457,257,462,141,462"/>
+<area shape="rect" id="Node000022" href="$classseparation__c.html" title="A list of states that lead to a separation of the puzzle into 2 parts." alt="" coords="624,572,729,597"/>
+<area shape="poly" id="edge25_Node000018_Node000022" title=" " alt="" coords="723,564,933,483,935,488,725,569"/>
+<area shape="poly" id="edge30_Node000022_Node000022" title=" " alt="" coords="648,557,657,549,677,545,693,548,704,554,706,564,701,573,697,571,701,563,699,557,692,553,677,551,659,554,652,561"/>
+<area shape="rect" id="Node000023" href="$classdisassembly__c.html" title="the disassembly is a common base class for the separation and separationInfo classes." alt="" coords="300,496,419,521"/>
+<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="433,506,499,512,567,526,617,547,658,570,655,574,615,551,566,531,498,517,433,512"/>
+<area shape="rect" id="Node000027" href="$classseparationInfo__c.html" title="this class is used to store the complexity of a disassembly." alt="" coords="611,467,742,492"/>
+<area shape="poly" id="edge32_Node000027_Node000023" title=" " alt="" coords="432,498,485,493,611,482,611,487,486,498,433,503"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="277,550,442,590"/>
+<area shape="poly" id="edge27_Node000022_Node000024" title=" " alt="" coords="456,583,486,586,526,587,567,586,624,584,624,590,567,591,526,593,485,591,456,588"/>
+<area shape="poly" id="edge33_Node000027_Node000024" title=" " alt="" coords="453,544,566,513,590,505,636,490,637,495,592,510,567,518,455,549"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="270,620,449,645"/>
+<area shape="poly" id="edge28_Node000022_Node000025" title=" " alt="" coords="462,621,566,607,626,595,627,600,567,613,463,627"/>
+<area shape="rect" id="Node000026" href="$classstate__c.html" title="defines one step in the separation process." alt="" coords="40,620,109,645"/>
+<area shape="poly" id="edge29_Node000025_Node000026" title=" " alt="" coords="123,630,270,630,270,635,123,635"/>
+<area shape="poly" id="edge31_Node000018_Node000027" title=" " alt="" coords="755,475,855,473,924,471,924,476,855,478,756,480"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="1184,405,1337,431"/>
+<area shape="poly" id="edge34_Node000012_Node000028" title=" " alt="" coords="1351,401,1481,378,1532,368,1533,373,1482,383,1351,406"/>
+<area shape="rect" id="Node000029" href="$classassembler__c.html" title="The assembler." alt="" coords="1209,455,1313,480"/>
+<area shape="poly" id="edge35_Node000012_Node000029" title=" " alt="" coords="1326,456,1401,441,1480,417,1524,395,1559,371,1562,376,1526,399,1482,422,1402,447,1327,462"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="881,209,1055,235"/>
+<area shape="poly" id="edge37_Node000004_Node000030" title=" " alt="" coords="1069,219,1221,219,1221,225,1069,225"/>
+</map>

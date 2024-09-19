@@ -1,0 +1,26 @@
+<map id="solution_c" name="solution_c">
+<area shape="rect" id="Node000001" title="This class stores the information for one solution for a problem." alt="" coords="804,105,892,131"/>
+<area shape="rect" id="Node000002" href="$classassembly__c.html" title="this class contains the assembly for a puzzle." alt="" coords="573,52,672,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="686,76,781,98,804,104,803,109,779,103,685,81"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,55,428,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,64,573,62,573,68,442,69"/>
+<area shape="rect" id="Node000004" href="$classplacement__c.html" title="this class contains the information for the placement of one piece within the assembly." alt="" coords="5,55,111,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,65,224,65,224,70,125,70"/>
+<area shape="rect" id="Node000005" href="$classsymmetries__c.html" title="this class contains all kinds of functions to handle symmetry groups" alt="" coords="269,5,383,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,24,534,45,573,52,573,57,533,50,397,30"/>
+<area shape="rect" id="Node000006" href="$classseparation__c.html" title="A list of states that lead to a separation of the puzzle into 2 parts." alt="" coords="570,216,675,241"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="660,208,820,128,822,133,663,212"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="598,201,606,193,623,189,637,192,646,198,648,208,644,217,639,215,643,207,642,201,635,197,623,195,608,197,602,205"/>
+<area shape="rect" id="Node000007" href="$classdisassembly__c.html" title="the disassembly is a common base class for the separation and separationInfo classes." alt="" coords="267,195,385,220"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="399,210,570,222,570,228,399,215"/>
+<area shape="rect" id="Node000011" href="$classseparationInfo__c.html" title="this class is used to store the complexity of a disassembly." alt="" coords="557,105,688,131"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="399,209,466,202,500,193,532,178,540,172,544,165,556,148,588,128,590,133,559,152,548,168,544,176,535,183,502,198,467,207,400,214"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="243,127,409,167"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="423,167,534,197,586,213,584,218,533,202,421,172"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="422,135,557,122,557,127,423,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="237,255,415,280"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="429,252,533,238,569,233,570,238,534,243,429,257"/>
+<area shape="rect" id="Node000010" href="$classstate__c.html" title="defines one step in the separation process." alt="" coords="23,255,93,280"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="106,265,236,265,236,270,106,270"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="702,115,804,115,804,121,702,121"/>
+</map>

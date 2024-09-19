@@ -1,0 +1,18 @@
+<map id="ogzstream" name="ogzstream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,313,248,339"/>
+<area shape="rect" id="Node000002" href="$classgzstreambase.html" title=" " alt="" coords="79,240,193,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,274,194,311,190,315,155,278"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="71,159,140,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,197,134,239,129,241,112,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,79,176,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,117,106,159,101,160,93,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="135,5,241,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,41,108,81,105,76,160,37"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="200,79,371,104"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="216,37,271,76,268,81,213,41"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="225,240,329,265"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,277,217,315,213,311,254,273"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="209,152,354,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="282,206,281,240,275,240,277,206"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="287,118,285,152,280,152,281,118"/>
+</map>

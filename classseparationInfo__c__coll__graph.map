@@ -1,0 +1,7 @@
+<map id="separationInfo_c" name="separationInfo_c">
+<area shape="rect" id="Node000001" title="this class is used to store the complexity of a disassembly." alt="" coords="82,108,213,133"/>
+<area shape="rect" id="Node000002" href="$classdisassembly__c.html" title="the disassembly is a common base class for the separation and separationInfo classes." alt="" coords="5,13,124,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,47,139,106,135,110,82,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,313,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,58,160,109,156,106,202,54"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="assembly_c" name="assembly_c">
+<area shape="rect" id="Node000001" title="this class contains the assembly for a puzzle." alt="" coords="150,181,249,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,209,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,126,188,179,185,183,128,130"/>
+<area shape="rect" id="Node000003" href="$classplacement__c.html" title="this class contains the information for the placement of one piece within the assembly." alt="" coords="55,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,45,110,93,105,93,105,45"/>
+<area shape="rect" id="Node000004" href="$classsymmetries__c.html" title="this class contains all kinds of functions to handle symmetry groups" alt="" coords="234,93,349,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,131,248,159,218,183,214,179,244,155,271,128"/>
+</map>

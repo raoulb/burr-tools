@@ -1,0 +1,17 @@
+<map id="src/lib/assembler.cpp" name="src/lib/assembler.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,5,230,31"/>
+<area shape="rect" id="Node000002" href="$assembler_8h.html" title="contains the classes used for the assembler" alt="" coords="35,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,33,107,70,103,67,137,29"/>
+<area shape="rect" id="Node000003" href="$xml_8h.html" title="This file contains the XML load and save stuff." alt="" coords="162,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,29,197,67,194,70,159,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,152,68,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,107,79,149,77,144,186,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="93,152,151,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,106,150,146,146,141,199,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="175,152,255,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="218,104,218,138,213,138,213,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="279,152,330,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="231,102,281,141,278,145,228,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="355,152,441,177"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="246,102,356,144,354,149,244,107"/>
+</map>

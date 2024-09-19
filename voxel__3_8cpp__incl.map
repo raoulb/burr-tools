@@ -1,0 +1,38 @@
+<map id="src/lib/voxel_3.cpp" name="src/lib/voxel_3.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="428,5,571,31"/>
+<area shape="rect" id="Node000002" href="$voxel__3_8h.html" title=" " alt="" coords="273,79,357,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,33,359,76,357,71,469,28"/>
+<area shape="rect" id="Node000015" href="$intdiv_8h.html" title=" " alt="" coords="381,79,500,104"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="492,33,461,70,457,67,488,29"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="524,79,592,104"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="511,29,542,67,538,70,507,33"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="616,79,777,104"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="532,28,652,71,651,76,530,33"/>
+<area shape="rect" id="Node000003" href="$voxel__0_8h.html" title="Contains the declaration of voxel_0_c." alt="" coords="273,152,357,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,104,318,138,313,138,313,104"/>
+<area shape="rect" id="Node000004" href="$voxel_8h.html" title="Contains the voxel base class and the class that gets thrown on load errors." alt="" coords="281,225,350,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="318,178,318,212,313,212,313,178"/>
+<area shape="rect" id="Node000005" href="$bt__assert_8h.html" title=" " alt="" coords="80,372,175,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,246,250,252,216,262,183,278,155,300,138,329,131,359,126,358,133,327,151,297,180,273,215,257,249,246,280,240"/>
+<area shape="rect" id="Node000009" href="$symmetries_8h.html" title=" " alt="" coords="294,372,406,397"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="321,250,347,358,341,359,316,252"/>
+<area shape="rect" id="Node000011" href="$gridtype_8h.html" title=" " alt="" coords="165,299,253,324"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="300,253,239,293,236,289,297,248"/>
+<area shape="rect" id="Node000012" href="$types_8h.html" title=" " alt="" coords="199,372,269,397"/>
+<area shape="poly" id="edge14_Node000004_Node000012" title=" " alt="" coords="311,252,250,361,245,359,306,250"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="378,299,445,324"/>
+<area shape="poly" id="edge15_Node000004_Node000013" title=" " alt="" coords="332,249,386,288,383,292,329,253"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="469,299,527,324"/>
+<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="346,248,456,291,454,296,344,253"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,445,68,471"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="114,399,64,439,61,434,111,395"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="92,445,163,471"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="130,398,130,432,125,432,125,398"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="187,445,273,471"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="145,395,203,435,200,439,142,400"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="303,445,389,471"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="352,398,350,432,345,432,347,398"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="197,326,153,365,149,361,194,322"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="215,323,228,358,223,360,210,325"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="253,395,317,435,314,440,251,400"/>
+</map>
